@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2a6220b0-82ff-4088-87c5-cb6a4b273895">
+  <producedTypes>
+    <objectType typeId="b9b82ecc-7dbb-4181-b82e-b5a2f13508f4" valueTypeId="66d01e0c-3e56-45b5-8112-16241f58ece6"/>
+    <refType typeId="35accdd7-e007-47c8-9237-8fcd338d0dff" valueTypeId="f4503a1b-382e-44f8-b17d-40446e5b3f34"/>
+    <selectionType typeId="85125db8-f00f-4779-9e2b-c4966016c661" valueTypeId="c2da15cb-48a8-4637-a2ba-29a93d894f7e"/>
+    <listType typeId="b8876d64-e6e3-486a-a6eb-db11de9534c0" valueTypeId="fcd6471d-e494-448a-ac42-345ac920f390"/>
+    <managerType typeId="6e274b28-c97a-4c2e-a962-b8588cdaac8e" valueTypeId="c75a91f8-226e-4e8c-b6e3-56a1cc367688"/>
+  </producedTypes>
+  <name>git_test22_vas</name>
+  <synonym>
+    <key>ru</key>
+    <value>Git test22 vas</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.git_test22_vas.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.git_test22_vas.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

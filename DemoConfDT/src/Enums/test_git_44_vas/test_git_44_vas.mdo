@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0ca0d301-3eb5-4988-ba51-9d7598e0589f">
+  <producedTypes>
+    <refType typeId="c3803021-40ab-442c-94f3-ba9aedc62ab1" valueTypeId="8a44e987-167a-4e6f-8ae5-a6d94d57a57b"/>
+    <listType typeId="a84553ea-d874-4c47-a925-0f68b4d21c59" valueTypeId="f6099ffd-6563-4384-8b61-3b9931c301ac"/>
+    <managerType typeId="3bfaae6e-d792-483c-a481-5fc075209d7f" valueTypeId="6b065f40-6586-4c7a-8fe5-046e397b1322"/>
+  </producedTypes>
+  <name>test_git_44_vas</name>
+  <synonym>
+    <key>ru</key>
+    <value>Test git 44 vas</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

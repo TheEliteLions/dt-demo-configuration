@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="33a0ddef-2e24-4f02-880e-9785233cb048">
+  <producedTypes>
+    <objectType typeId="9c925f7e-4c2f-474f-9d09-a38e42c43768" valueTypeId="e94869a4-c6d2-445a-9ce9-e4ca42cc8daf"/>
+    <refType typeId="0b56e019-1368-4d2e-8b0e-ec2c64ef0324" valueTypeId="c099b933-4402-4b26-b8e4-5726b78b3e95"/>
+    <selectionType typeId="1c79a0a9-880c-4aa7-8773-860d70f0ca01" valueTypeId="40bbd36c-4ffc-4c20-9bf7-82161d05c38f"/>
+    <listType typeId="80b72b37-91ea-4096-96c6-a078f1ef9d20" valueTypeId="b7f3afe9-3849-41c2-a3fa-6c3329d8d96c"/>
+    <managerType typeId="3116dc1c-4270-48a3-ad8c-7fa86b6ce175" valueTypeId="dc69aa00-545f-40f0-94fa-f5737b559ea7"/>
+  </producedTypes>
+  <name>test_git_33_vas</name>
+  <synonym>
+    <key>ru</key>
+    <value>Test git 33 vas</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.test_git_33_vas.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
