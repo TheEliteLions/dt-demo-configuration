@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="853e0fc6-20ad-4acf-899f-98bfe4feef4c">
+  <producedTypes>
+    <objectType typeId="b237040a-7d0f-4cc8-a090-9d522f4ba59f" valueTypeId="0fecbd26-75b9-46ea-a9de-0e928b7eca9e"/>
+    <refType typeId="a4408c10-b185-4fac-919c-3e900ee9a550" valueTypeId="da23ba4f-5d4e-4a42-ba91-020c7e58d55a"/>
+    <selectionType typeId="f74358ca-9f8f-4678-9b53-6f8f4f71d356" valueTypeId="58f16d77-e5b8-40e9-9fdc-7f4174b4da0e"/>
+    <listType typeId="add64d52-8f06-4818-9c9b-aa9dc72984f4" valueTypeId="eb2f04ee-ef74-487e-bc82-e1fb5b2aca48"/>
+    <managerType typeId="0744867c-ddd4-4126-afb7-21bccdb154da" valueTypeId="4bf0e33c-6e4b-4ccb-84d6-4b4455b4f2b3"/>
+  </producedTypes>
+  <name>Справочник_тест_андр</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник тест андр</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Справочник_тест_андр.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Справочник_тест_андр.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
